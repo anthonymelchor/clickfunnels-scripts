@@ -1,5 +1,5 @@
 <!-- Location code -->
 <script>
-  console.log("User's State: " + state);
+  console.log("Prueba")
 </script>
 <!-- END Location code -->
